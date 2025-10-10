@@ -26,8 +26,8 @@ android {
         namespace 'dev.irondash.engine_context'
     }
 
-    compileSdkVersion 31
- ndkVersion "29.0.13846066"
+    compileSdkVersion 34
+    ndkVersion "29.0.13846066"
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
         targetCompatibility JavaVersion.VERSION_17
